@@ -52,7 +52,7 @@ header {
   height: 105px;
 }
 
-adress {
+address {
   display: flex;
   justify-self: end;
   flex-direction: column;
