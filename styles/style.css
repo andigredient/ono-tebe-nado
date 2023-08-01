@@ -175,9 +175,7 @@ address {
   background-color: transparent;
   width: 257px;
   border: 1px solid #fff;
-}
 
-.cover__bet-button-text {
   text-align: center;
   font-family: Raleway;
   font-size: 22px;
@@ -187,7 +185,7 @@ address {
   text-transform: uppercase;
   color: #fff;
   padding-top: 11px;
-  padding-bottom: 11px;
+  padding-bottom: 12px;
 }
 
 .lots {
