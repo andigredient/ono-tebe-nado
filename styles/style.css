@@ -78,7 +78,6 @@ address {
   position: absolute;
   z-index: 4;
   background-size: cover;
-  width: 100%;
   background-color: rgb(0, 0, 0, 0.6000000238418579);
   min-height: 757px;
 }
@@ -398,7 +397,6 @@ footer {
 
 .footer__social-list-item {
   width: 240px;
-  list-style-type: none;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
