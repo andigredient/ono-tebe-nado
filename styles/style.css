@@ -288,6 +288,9 @@ address {
   display: flex;
   flex-direction: row;
   column-gap: 25px;
+
+
+
 }
 
 .about__logo {
@@ -347,6 +350,8 @@ footer {
   flex-direction: row;
   margin: 184px 50px 90px 50px;
   max-width: 100%;
+
+
   justify-content: space-between;
 }
 
