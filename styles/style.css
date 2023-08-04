@@ -89,10 +89,6 @@ address {
   padding-left: 50px;
 }
 
-p {
-  display: inline;
-}
-
 .cover__aligned-text-center {
   display: flex;
   justify-content: center;
